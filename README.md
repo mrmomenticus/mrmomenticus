@@ -1,6 +1,3 @@
-### :man_technologist: About Me :
-- Student Peter the Great St. Petersburg Polytechnic University
-- Specialty: Information Systems And Technologies
 
 ![WakaTime Activity](https://wakatime.com/share/@mrmomenticus/617d9274-3c5f-4b94-b2d8-9c482cfea0bf.png)
 
